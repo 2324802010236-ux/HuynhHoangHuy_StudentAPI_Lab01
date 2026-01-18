@@ -1,0 +1,6 @@
+@HuynhHoangHuy_StudentAPI_Lab01_HostAddress = http://localhost:5101
+
+GET {{HuynhHoangHuy_StudentAPI_Lab01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
